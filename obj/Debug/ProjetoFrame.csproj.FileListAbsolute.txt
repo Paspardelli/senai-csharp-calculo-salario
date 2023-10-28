@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\bin\Debug\ProjetoFrame.exe.config
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\bin\Debug\ProjetoFrame.exe
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\bin\Debug\ProjetoFrame.pdb
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\obj\Debug\ProjetoFrame.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\obj\Debug\ProjetoFrame.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\obj\Debug\ProjetoFrame.exe
+C:\Users\aluno\source\repos\ProjetoFrame\ProjetoFrame\obj\Debug\ProjetoFrame.pdb
